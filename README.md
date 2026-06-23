@@ -1,5 +1,5 @@
 # Student Management Dashboard
-
+#Live Project - > https://student-management-system-dashboard-nqhr8ssn5typdu7cmawsjh.streamlit.app/
 ## Overview
 
 The Student Management Dashboard is an interactive data analytics project built using Python, Pandas, Plotly, and Streamlit. The project focuses on data cleaning, exploratory data analysis (EDA), and dashboard development to generate meaningful insights from student data.
